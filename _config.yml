@@ -1,0 +1,28 @@
+name: SimpleLife
+favicon: null
+layout_spectrum: 0.022626645397394896
+typography_spectrum: 0.4079826499801129
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9196551847271621
+  lightness: 0.8273317771963775
+  saturation: 0.08570528193376958
+  rhythmicContrast: 0.10545331751927733
+purpose: []
